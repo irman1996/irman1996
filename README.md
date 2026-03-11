@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=3044&auto=format&fit=crop" alt="Anime Banner" width="100%" height="250" style="object-fit: cover; border-radius: 12px; margin-bottom: 20px;" />
-  <h1>Hi 👋, I'm irman1996!</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20👋,%20I'm%20irman1996!&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20&%20Web3%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <p align="center">
