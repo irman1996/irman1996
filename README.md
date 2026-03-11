@@ -36,6 +36,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/irman1996">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irman1996&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
