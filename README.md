@@ -34,7 +34,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=irman1996&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
   </a>
   <a href="https://github.com/irman1996">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irman1996&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=irman1996&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
   </a>
 </p>
 
