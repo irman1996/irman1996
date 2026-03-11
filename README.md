@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **innovative Web3 Projects**
 - 🌱 I’m currently deepening my knowledge in **Blockchain integrations and Next.js Architecture**
-- 👯 I’m looking to collaborate on **Open Source Frontend or Aptos Ecosystem Tools**
+- 👯 I’m looking to collaborate on **Open Source Frontend Tools**
 - 💬 Ask me about **React, Next.js, TypeScript, UI/UX**
 - 📫 How to reach me ? DM me on X
 - ⚡ Fun fact: I love building pixel-perfect, dynamic web applications!
