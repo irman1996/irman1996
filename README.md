@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **innovative Web3 & Pay-Per-View Projects**
+- 🔭 I’m currently working on **innovative Web3 Projects**
 - 🌱 I’m currently deepening my knowledge in **Blockchain integrations and Next.js Architecture**
 - 👯 I’m looking to collaborate on **Open Source Frontend or Aptos Ecosystem Tools**
 - 💬 Ask me about **React, Next.js, TypeScript, UI/UX**
