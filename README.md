@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20👋,%20I'm%20irman1996!&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20&%20Web3%20Enthusiast&descAlignY=55&descAlign=50" />
-</div>
+<h1 align="center">Hi 👋, I'm irman1996!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Frontend+Developer;Web3+%26+Crypto+Enthusiast;Always+learning+and+building!" alt="Typing SVG" />
